@@ -1,6 +1,6 @@
 # Snake
 
-A simple bomberman game copy written in C++.<br/>
+A snake game written in C++.<br/>
 I am using SDL2.
 
 Running the game (on windows):<br/>
